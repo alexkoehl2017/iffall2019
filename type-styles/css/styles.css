@@ -1,0 +1,51 @@
+body{
+	font-family: "open sans" , sans serif; 
+}
+h1 {
+	color: blue; font-size: 50px; font-weight: bolder; margin-bottom: 10px; 
+}
+h2{
+	font-weight: bold; font-size: 40px; margin-top: 70px; margin-bottom: 10px;
+}
+section {
+	font-size: 24px; 
+}
+.descriptor{
+	color: grey; font-size: 18px; font-family: times;
+}
+#bold {
+	font-weight: bold;
+}
+#italic {
+	font-style: italic;
+}
+#spacing1 {
+	letter-spacing: .3em;
+	}
+#spacing2 {
+	letter-spacing: -.06em;
+}
+#type-section {
+	margin-bottom: 50px; margin-top: 10px;
+}
+.pg-descript {
+	margin-top: 5px; font-size: 18px; color: grey;
+}
+#underline {
+	text-decoration:underline;
+}
+#line-through {
+	text-decoration:line-through;
+}
+#overline {
+	text-decoration: overline;
+}
+#uppercase {
+	text-transform: uppercase;
+}
+#lowercase {
+	text-transform: lowercase;
+}
+#capitalize {
+	text-transform: capitalize;
+}
