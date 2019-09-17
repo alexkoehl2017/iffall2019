@@ -1,0 +1,12 @@
+body {background-color: #FBACA5; font-family: "open sans"; text-align: center;}
+p {margin-bottom: 5px; margin-top: 5px;}
+section {margin-bottom: 40px;}
+h3 {margin: auto; font-family: "space mono"; font-style: italic;}
+h1 {margin-bottom: 0px; font-size: 80px; font-family: "space mono"}
+h2 {margin-top: 5px; font-size: 45px; margin-bottom: 20px; font-family: "space mono"; text-transform: uppercase;}
+#PeachPit {width: 400px; height: 400px;}
+#SweetFA {width: 250px; height: 250px; margin-bottom: 30px;}
+footer {font-size: 10px; font-style: italic;}
+.Chorus {
+	font-weight: bolder;
+}
