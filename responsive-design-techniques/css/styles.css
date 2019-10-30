@@ -24,12 +24,14 @@ body{
 #fixed-size-grid-items aside{
 	width: 170px;
 	display: inline-block;
+	vertical-align: top;
 	margin: 10px;
 	font-size: .8rem;
 }
 
 #fixed-size-grid-items li{
 	display: inline-block;
+	vertical-align: top;
 }
 
 #fixed-size-grid-items ul{
@@ -43,6 +45,7 @@ body{
 }
 
 #stretchable-grid-items li{
+	vertical-align: top;
 	display: inline-block;
 	width: 100%;
 }
