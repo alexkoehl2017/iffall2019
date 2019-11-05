@@ -1,0 +1,18 @@
+h1{
+	font-size: 50px;
+}
+
+
+.mobile{
+	width: 425px;
+	height: auto;
+	display: block;
+	margin-bottom: 30px;
+}
+.desktop{
+	width: 1440px;
+	height: auto;
+	display: block;
+	display: block;
+	margin-bottom: 30px;
+}
