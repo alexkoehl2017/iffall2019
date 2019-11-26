@@ -14,7 +14,7 @@ h1{
 	letter-spacing: 5px;
 	font-weight: lighter;
 	color: white;
-	margin-top: 150px;
+	margin-top: 170px;
 	margin-bottom: 85px;
 }
 
@@ -24,6 +24,7 @@ h2{
 	letter-spacing: 2.62px;
 	font-weight: lighter;
 	color: white;
+	margin-top: 170px;
 }
 
 p{
@@ -48,8 +49,10 @@ nav{
 	width: 80%;
 	margin: auto;
 	border-bottom: 1px solid white;
-	background-color: #C57252;
 	margin-top: 20px;
+	position: fixed;
+	right: 10%;
+	top: -10px;
 
 }
 
