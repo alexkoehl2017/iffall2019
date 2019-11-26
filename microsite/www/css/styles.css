@@ -56,14 +56,21 @@ nav{
 img{
 	opacity: 0.5;
   	filter: alpha(opacity=50); /* For IE8 and earlier */
+  	position: absolute;
 }
 
 nav a{
 	text-decoration: none;
 	color: white;
+	font-size: 15px;
 }
 
 nav a:hover{
+	text-decoration: none;
+	font-weight: 700;
+}
+
+nav a:active{
 	text-decoration: none;
 	font-weight: 700;
 }
@@ -120,4 +127,134 @@ nav a:hover{
 	z-index: -5;
 	top: 18%;
 	right: 63%;
+}
+
+#history1{
+	width: 600px;
+	height: auto;
+	z-index: -5;
+	bottom: 45%;
+	right: 0%;
+}
+
+#history2{
+	width: 300px;
+	height: auto;
+	z-index: -5;
+	top: 140%;
+	left: 5%;
+	opacity: .3;
+}
+
+#history3{
+	width: 400px;
+	height: auto;
+	z-index: -5;
+	top: 190%;
+	right: 10%;
+	opacity: .4;
+}
+
+#history4{
+	width: 300px;
+	height: auto;
+	z-index: -5;
+	top: 240%;
+	left: 25%;
+	opacity: .3;
+}
+
+#policy1{
+	width: 550px;
+	height: auto;
+	z-index: -5;
+	bottom: 50%;
+	right: 0%;
+}
+
+#policy2{
+	width: 300px;
+	height: auto;
+	z-index: -5;
+	top: 100%;
+	left: 5%;
+	opacity: .3;
+}
+
+#policy3{
+	width: 400px;
+	height: auto;
+	z-index: -5;
+	top: 190%;
+	right: 10%;
+	opacity: .3;
+}
+
+#policy4{
+	width: 300px;
+	height: auto;
+	z-index: -5;
+	top: 240%;
+	left: 25%;
+	opacity: .3;
+}
+
+#drugs1{
+	width: 550px;
+	height: auto;
+	z-index: -5;
+	bottom: 50%;
+	right: 0%;
+}
+
+#drugs2{
+	width: 300px;
+	height: auto;
+	z-index: -5;
+	top: 57%;
+	left: 23%;
+	opacity: .3;
+}
+
+#growth1{
+	width: 550px;
+	height: auto;
+	z-index: -5;
+	bottom: 50%;
+	right: 0%;
+}
+
+#growth2{
+	width: 500px;
+	height: auto;
+	z-index: -5;
+	top: 66%;
+	left: 12.5%;
+	opacity: .3;
+}
+
+#culture1{
+	width: 550px;
+	height: auto;
+	z-index: -5;
+	bottom: 50%;
+	right: 0%;
+}
+
+#culture3{
+	width: 300px;
+	height: auto;
+	z-index: -5;
+	top: 70%;
+	left: 5%;
+	opacity: .3;
+}
+
+#culture4{
+	width: 300px;
+	height: auto;
+	z-index: -5;
+	top: 100%;
+	right: 30%;
+	opacity: .3;
 }
