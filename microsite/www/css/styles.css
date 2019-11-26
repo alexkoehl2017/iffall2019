@@ -1,0 +1,123 @@
+body{
+	font-family: franklin-gothic-urw, sans-serif;
+	background-color: #C57252;
+	font-weight: 400px;
+	color: white;
+	font-size: 25px;
+	line-height: 39px;
+	margin: 0px;
+
+}
+h1{
+	font-family: bely-display, sans-serif;
+	font-size: 190px;
+	letter-spacing: 5px;
+	font-weight: lighter;
+	color: white;
+	margin-top: 150px;
+	margin-bottom: 85px;
+}
+
+h2{
+	font-family: bely-display, sans-serif;
+	font-size: 100px;
+	letter-spacing: 2.62px;
+	font-weight: lighter;
+	color: white;
+}
+
+p{
+	font-size: 18px;
+	line-height: 27px;
+	letter-spacing: 1.5px;
+	width: 60%;
+	margin-bottom: 40px;
+}
+
+.right{
+	float: right;
+	clear:both;
+}
+
+.left {
+	float: left;
+	clear: both;
+}
+
+nav{
+	width: 80%;
+	margin: auto;
+	border-bottom: 1px solid white;
+	background-color: #C57252;
+	margin-top: 20px;
+
+}
+
+img{
+	opacity: 0.5;
+  	filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+}
+
+nav a:hover{
+	text-decoration: none;
+	font-weight: 700;
+}
+
+.navbar-nav {
+	font-size: 20px;
+	letter-spacing: 2.33px;
+	display: inline-block;
+	float: right;
+}
+
+.navbar-nav a{
+	margin-left: 30px;
+}
+
+#nav-fav{
+	font-family: bely-display, sans-serif;
+	font-size: 33px;
+	font-weight: lighter;
+}
+
+.body{
+	width: 80%;
+	margin: auto;
+}
+
+
+.home-img {
+	display: inline-block;
+}
+
+#home2 {
+	width: 652px;
+	height: auto;
+	position: absolute;
+	z-index: -5;
+	bottom:	0%;
+	right: 40%;
+}
+
+#home1 {
+	width: 500px;
+	height: auto;
+	position: absolute;
+	z-index: -5;
+	bottom: 40%;
+	right: 0%;
+}
+
+#home3 {
+	width: 300px;
+	height: auto;
+	position: absolute;
+	z-index: -5;
+	top: 18%;
+	right: 63%;
+}
