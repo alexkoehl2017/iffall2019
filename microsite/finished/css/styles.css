@@ -1,0 +1,274 @@
+body{
+	font-family: franklin-gothic-urw, sans-serif;
+	background-color: #C57252;
+	font-weight: 400px;
+	color: white;
+	font-size: 25px;
+	line-height: 39px;
+	margin: 0px;
+
+}
+h1{
+	font-family: bely-display, sans-serif;
+	font-size: 190px;
+	letter-spacing: 5px;
+	font-weight: lighter;
+	color: white;
+	margin-top: 170px;
+	margin-bottom: 85px;
+}
+
+h2{
+	font-family: bely-display, sans-serif;
+	font-size: 100px;
+	letter-spacing: 2.62px;
+	font-weight: lighter;
+	color: white;
+	margin-top: 170px;
+}
+
+p{
+	font-size: 18px;
+	line-height: 27px;
+	letter-spacing: 1.5px;
+	width: 60%;
+	margin-bottom: 40px;
+}
+
+.right{
+	float: right;
+	clear:both;
+}
+
+.left {
+	float: left;
+	clear: both;
+}
+
+nav{
+	width: 80%;
+	margin: auto;
+	border-bottom: 1px solid white;
+	margin-top: 20px;
+	position: fixed;
+	right: 10%;
+	top: -10px;
+
+}
+
+img{
+	opacity: 0.5;
+  	filter: alpha(opacity=50); /* For IE8 and earlier */
+  	position: absolute;
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+}
+
+nav a:hover{
+	text-decoration: none;
+	font-weight: 700;
+}
+
+nav a:active{
+	text-decoration: none;
+	font-weight: 700;
+}
+
+.navbar-nav {
+	font-size: 20px;
+	letter-spacing: 2.33px;
+	display: inline-block;
+	float: right;
+}
+
+.navbar-nav a{
+	margin-left: 30px;
+}
+
+#nav-fav{
+	font-family: bely-display, sans-serif;
+	font-size: 37px;
+	font-weight: lighter;
+}
+
+.body{
+	width: 80%;
+	margin: auto;
+}
+
+
+.home-img {
+	display: inline-block;
+}
+
+#home2 {
+	width: 652px;
+	height: auto;
+	position: absolute;
+	z-index: -5;
+	bottom:	0%;
+	right: 40%;
+}
+
+#home1 {
+	width: 500px;
+	height: auto;
+	position: absolute;
+	z-index: -5;
+	bottom: 40%;
+	right: 0%;
+}
+
+#home3 {
+	width: 300px;
+	height: auto;
+	position: absolute;
+	z-index: -5;
+	top: 18%;
+	right: 63%;
+}
+
+#history1{
+	width: 600px;
+	height: auto;
+	z-index: -5;
+	bottom: 45%;
+	right: 0%;
+}
+
+#history2{
+	width: 300px;
+	height: auto;
+	z-index: -5;
+	top: 140%;
+	left: 5%;
+	opacity: .3;
+}
+
+#history3{
+	width: 400px;
+	height: auto;
+	z-index: -5;
+	top: 190%;
+	right: 10%;
+	opacity: .4;
+}
+
+#history4{
+	width: 500px;
+	height: auto;
+	z-index: -5;
+	top: 220%;
+	left: 15%;
+	opacity: .3;
+}
+
+#policy1{
+	width: 550px;
+	height: auto;
+	z-index: -5;
+	bottom: 50%;
+	right: 0%;
+}
+
+#policy2{
+	width: 300px;
+	height: auto;
+	z-index: -5;
+	top: 100%;
+	left: 5%;
+	opacity: .3;
+}
+
+#policy3{
+	width: 400px;
+	height: auto;
+	z-index: -5;
+	top: 190%;
+	right: 10%;
+	opacity: .3;
+}
+
+#policy4{
+	width: 300px;
+	height: auto;
+	z-index: -5;
+	top: 240%;
+	left: 25%;
+	opacity: .3;
+}
+
+#drugs1{
+	width: 550px;
+	height: auto;
+	z-index: -5;
+	bottom: 50%;
+	right: 0%;
+}
+
+#drugs2{
+	width: 300px;
+	height: auto;
+	z-index: -5;
+	top: 57%;
+	left: 23%;
+	opacity: .3;
+}
+
+#growth1{
+	width: 550px;
+	height: auto;
+	z-index: -5;
+	bottom: 50%;
+	right: 0%;
+}
+
+#growth2{
+	width: 500px;
+	height: auto;
+	z-index: -5;
+	top: 66%;
+	left: 7.5%;
+	opacity: .3;
+}
+
+#culture1{
+	width: 550px;
+	height: auto;
+	z-index: -5;
+	bottom: 50%;
+	right: 0%;
+}
+
+#culture3{
+	width: 300px;
+	height: auto;
+	z-index: -5;
+	top: 70%;
+	left: 5%;
+	opacity: .3;
+}
+
+#culture4{
+	width: 300px;
+	height: auto;
+	z-index: -5;
+	top: 100%;
+	right: 30%;
+	opacity: .3;
+}
+
+p a{
+	text-decoration: none;
+	color: white;
+}
+
+p a:hover{
+	text-decoration: none;
+	color: white;
+	font-weight: bolder;
+}
